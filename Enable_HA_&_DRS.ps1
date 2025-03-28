@@ -1,5 +1,20 @@
-﻿# Script to Disable HA and DRS in the Given Logical Datacenter
+<#
+.SYNOPSIS
+   Disable HA and DRS in the Given Logical Datacenter
 
+.DESCRIPTION
+    Disable HA and DRS in the Given Logical Datacenter
+
+.EXAMPLE
+    Example of how to use the script.
+
+.NOTES
+    Author: Gokul   
+    Created: 2025-03-20  
+    Version: 1.0  
+    Updated: 2025-03-28
+    
+#>
 
 # Specify the Datacenter name
 $datacenterName = "XXXXXX"
